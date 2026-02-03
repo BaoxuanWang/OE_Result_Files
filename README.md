@@ -1,10 +1,15 @@
 Result Files.zip including following contents:
+
   3D FEM Nodel List
+  
   BeamDyn results
+  
   Quasi-static time-domain reconstruction
+  
   Target-state equilibrium iteration reconstruction
 
 Referrence:
+
 [1]	Wang, B.X., Liang, X., Wang, L.Z., et al. Six-component load reconstruction for offshore wind turbine blades considering deformation-induced additional moments. Ocean Engineering, 2026.
 
 Supplementary materials 
