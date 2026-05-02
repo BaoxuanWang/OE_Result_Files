@@ -5,7 +5,7 @@ Result Files.zip including following contents:
 4. Target-state equilibrium iteration reconstruction
 
 Referrence:
-*	Wang, B.X., Liang, X., Wang, L.Z., et al. Six-component load reconstruction for offshore wind turbine blades considering deformation-induced additional moments. Ocean Engineering, 2026.
+*	 Wang, B.X., Liang, X., Wang, L.Z., Sheng, F.Y., Wang, X., Chen, Y., Zhang, J.W., Rui, S.J., Liu, R. Six-component load reconstruction for offshore wind turbine blades considering deformation-induced additional moments. Ocean Engineering, 2026, 352: 124531. https://doi.org/10.1016/j.oceaneng.2026.124531.
 
 Supplementary materials 
 *	Code and model data availability
